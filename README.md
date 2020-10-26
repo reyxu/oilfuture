@@ -1,4 +1,4 @@
-# oilfuture
+# oil future portfolio
 I want to build a commodity curve strategy by trading WTI futures.  
 
 The commodity curve strategy takes a long position of an optimally-chosen contract and a short position of another contract at any time in order to capture the commodity's term struture premium.
